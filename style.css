@@ -1,0 +1,29 @@
+.d-flex button {
+	margin: 1.5em 0.6em;
+}
+
+.d-flex table {
+	margin: 1em 3em;
+}
+
+table .btnedit {
+	color: #FF3333;
+	cursor: pointer;
+}
+
+.success{
+	background-color: lightgreen;
+    justify-content: center;
+	padding: 1em;
+}
+.error{
+	background-color: tomato;
+	padding: 1em;
+}
+
+h6{
+	justify-content: center;
+}
+.py-4{
+	background-color: aquamarine;
+}
